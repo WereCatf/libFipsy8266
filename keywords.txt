@@ -5,13 +5,13 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-fipsy8266Class KEYWORD1
+fipsy8266Class	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-begin KEYWORD2
-readID KEYWORD2
-erase KEYWORD2
+begin	KEYWORD2
+readID	KEYWORD2
+erase	KEYWORD2
 #######################################
 # Instances (KEYWORD2)
 #######################################
